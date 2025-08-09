@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Star-Lord;Legendary+Competitive+Programmer;Mechatronics+Explorer;Guardian+of+Algorithms)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=P1LL3CHAN;Competitive+Programmer;Mechatronics+Explorer;Guardian+of+Algorithms)
 
 </div>
 
