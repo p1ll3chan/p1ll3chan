@@ -6,7 +6,6 @@
 
 </div>
 
-[61]
 
 ---
 
@@ -255,68 +254,6 @@ int main() {
 
 </div>
 
----
 
-## 📋 Setup Instructions for Your Own Star-Lord README
-
-To create your own version of this README:
-
-1. **Create a Repository**: Make a new repo with the same name as your GitHub username
-2. **Replace Information**: 
-   - Update username from `p1ll3chan` to yours
-   - Change email and social media links
-   - Modify projects and repositories to match yours
-   - Customize the tech stack and interests
-
-3. **Setup Snake Animation**:
-   - Copy the `.github/workflows/main.yml` from the provided workflow file
-   - The snake will generate based on your contribution pattern
-
-4. **Personalize Content**:
-   - Update your university/college information
-   - Modify projects to reflect your actual work
-   - Adjust competitive programming platforms you use
-   - Add your specific engineering interests
-
-5. **Starlord Theme Colors**:
-   - Cosmic Pink: `#F75C7E` (helmet glow)
-   - Golden Yellow: `#F8D866` (cosmic energy)
-   - Space Dark: `#0D1117` (background)
-
-### GitHub Actions Workflow Setup
-
-Create `.github/workflows/main.yml`:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk/svg-only@v2
-        with:
-          github_user_name: p1ll3chan  # Replace with your username
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
----
 
 *"Sometimes you gotta learn everything before you can specialize... or in my case, become a legendary geek before becoming a legendary engineer!"* - Star-Lord Abhijith, probably 🚀🤓
