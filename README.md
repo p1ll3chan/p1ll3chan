@@ -117,15 +117,6 @@ const starLord = {
 
 ---
 
-## 🌟 My Contributions (Conquering the Code Galaxy!)
-
-<div align="center">
-
-![Snake animation](https://github.com/p1ll3chan/p1ll3chan/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 ## 🎵 Current Engineering Quests
 
