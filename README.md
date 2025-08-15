@@ -45,7 +45,6 @@ I'm not your typical developer yet - I'm an **allrounder geek** who's inspired b
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhijith-r-pillai-p1ll3chan/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/p1ll3chan)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:am.en.u4mee23002@am.students.amrita.edu)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abhijith.rpillai.568)
 
 </div>
 
@@ -141,89 +140,6 @@ const starLord = {
 └─ Research Paper Publications
 ```
 
----
-
-## 🎮 Amrita University Journey
-
-<div align="center">
-
-**🏛️ Amrita Vishwa Vidyapeetham, Amritapuri Campus**
-*Engineering Student | Competitive Programmer | Future Mechatronics Engineer*
-
-</div>
-
-### 📚 Academic Interests:
-- **🔧 Mechatronics Engineering**: Fusion of Mechanical, Electrical & Computer Systems
-- **🤖 Robotics & Automation**: Building intelligent machines
-- **💻 Competitive Programming**: Algorithmic problem solving
-- **🔬 Research**: Carbon Nanomaterials & Biorobotics
-- **👥 Leadership**: Team management and project coordination
-
-### 🎯 Future Aspirations:
-- **Master Competitive Programming** (become a real code wizard 🧙‍♂️)
-- **Lead Mechatronics Projects** at university and beyond
-- **Contribute to Open Source** engineering solutions
-- **Research & Innovation** in robotics and automation
-- **Build something that changes the world** (or at least makes it cooler!)
-
----
-
-## 🌌 Random Geek Wisdom
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
-## 💫 Guardian's Code of Curiosity
-
-- 🔍 **Question Everything**: If it has a '?' in it, I'm interested!
-- 🧠 **Learn Continuously**: Currently learning "everything" (and I mean it)
-- 🤝 **Collaborate Openly**: Especially on Mechatronics & Competitive Programming
-- ⚡ **Build & Break**: Arduino projects and algorithmic challenges
-- 🌟 **Lead with Passion**: Management and leadership through engineering
-- 🚀 **Dream Big**: From college projects to world-changing innovations
-
----
-
-## 🎮 Fun Facts About This Geek
-
-- 🤓 Self-proclaimed "allrounder geek" who gets excited about literally everything
-- 🔧 Can build air monitoring systems AND solve complex algorithms
-- 🤖 Dreams in C++ but thinks in mechanical engineering principles  
-- 📚 Reads technical papers for fun (seriously!)
-- 🎯 Believes every engineering problem is just a puzzle waiting to be solved
-- 🌟 Future goal: Build robots that can solve competitive programming problems
-- 💡 Motto: "If it doesn't have a question mark, add one and make it interesting!"
-
----
-
-## 🛠️ Current Engineering Arsenal
-
-### Programming Languages:
-```cpp
-// My favorite weapon of choice
-#include <iostream>
-#include <algorithm>
-#include <vector>
-using namespace std;
-
-int main() {
-    cout << "Hello, Galaxy! I'm Star-Lord!" << endl;
-    cout << "Ready for some competitive programming!" << endl;
-    return 0;
-}
-```
-
-### Hardware & Tools:
-- **Arduino Uno/Nano**: For mechatronics projects
-- **Ultrasonic Sensors**: Crack detection systems
-- **Gas Sensors**: Air monitoring applications
-- **LCD Displays**: Real-time data visualization
-- **C++ IDEs**: Competitive programming environments
 
 ---
 
