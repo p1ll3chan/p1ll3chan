@@ -90,11 +90,7 @@ const starLord = {
 
 </div>
 
-<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=p1ll3chan&theme=tokyonight&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D866&currStreakLabel=FFF&sideNums=FFF&currStreakNum=FFF&dates=FFF&sideLabels=FFF)
-
-</div>
 
 ---
 
