@@ -11,13 +11,7 @@
 
 ## 🚀 About This Legendary Outlaw
 
-<div align="center">
 
-*"I'm not just a dev yet... I'm something way cooler - a Competitive Programming Geek!"*
-
-</div>
-
-Just like **Peter Quill** started as a regular Earth kid before becoming the legendary Star-Lord, I'm on my journey from being a **"bumming Competitive Programmer"** to becoming a **Guardian of Algorithms**. Currently exploring the vast universe of **Mechatronics** and **Competitive Programming** at **Amrita Vishwa Vidyapeetham, Amritapuri Campus**. 
 
 I'm not your typical developer yet - I'm an **allrounder geek** who's inspired by anything mechanical, intellectual, and everything that has a **'?'** in it! 🤔
 
