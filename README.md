@@ -107,30 +107,6 @@ const starLord = {
 ---
 
 
-## 🎵 Current Engineering Quests
-
-```
-🤖 Active Projects:
-┌─ Mini Mobile Air Monitoring System (Arduino + Sensors)
-├─ Crack Detecting Roller (Ultrasonic Technology)  
-├─ Competitive Programming Kit (C++ Templates & Algorithms)
-└─ Carbon Nanomaterials Research Paper
-
-🎯 Learning Journey:
-┌─ Advanced C++ for Competitive Programming
-├─ Arduino & Embedded Systems
-├─ Mechatronics Engineering Principles
-├─ Leadership & Management Skills
-└─ "Everything" (literally everything with a '?' in it!)
-
-🏆 Competition Goals:
-┌─ ACM ICPC Preparation
-├─ CodeChef & Codeforces Practice
-├─ Engineering Project Competitions
-└─ Research Paper Publications
-```
-
-
 ---
 
 <div align="center">
