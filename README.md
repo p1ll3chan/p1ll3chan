@@ -14,7 +14,7 @@
 
 I'm not your typical developer yet - I'm an **allrounder geek** who's inspired by anything mechanical, intellectual, and everything that has a **'?'** in it! 🤔
 
-### 🎧 My Awesome Mix Vol. 1 (Current Arsenal)
+### 🎧 My Tape COllection
 
 <div align="center">
 
@@ -74,7 +74,7 @@ const P1LL3CHAN = {
 
 ---
 
-## 🏆 Guardian's Current Projects & Achievements
+## 🏆 Current Projects & Achievements
 
 <div align="center">
 
@@ -110,7 +110,7 @@ const P1LL3CHAN = {
 
 <div align="center">
 
-### 🌟 "I may not be a full developer yet, but I'm a legendary geek in training!" 🌟
+###  "I may not be a full developer yet, but I'm a legendary geek in training!" 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=p1ll3chan.p1ll3chan&style=flat-square&color=F75C7E)
 
@@ -120,7 +120,7 @@ const P1LL3CHAN = {
 
 ---
 
-*Remember: "We are Groot... but we code, build, and innovate individually!"* 🌳💻🤖
+*Remember: "We are Groot... but we code, build, and innovate individually!"* 
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=1000&color=F8D866&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+galaxy!;Keep+questioning+everything!;May+the+Code+%26+Gears+be+with+you!;Ready+for+some+engineering+adventures%3F)
 
@@ -128,4 +128,4 @@ const P1LL3CHAN = {
 
 
 
-*"Sometimes you gotta learn everything before you can specialize... or in my case, become a legendary geek before becoming a legendary engineer!"* - P1LL3CHAN 🚀🤓
+*"Sometimes you gotta learn everything before you can specialize... or in my case, become a legendary geek before becoming a legendary engineer!"* - P1LL3CHAN 
