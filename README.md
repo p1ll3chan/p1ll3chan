@@ -46,7 +46,7 @@ I'm not your typical developer yet - I'm an **allrounder geek** who's inspired b
 ## 🎯 Current Mission Status
 
 ```javascript
-const starLord = {
+const P1LL3CHAN = {
     name: "Abhijith R Pillai",
     alias: "p1ll3chan",
     location: "Amrita Vishwa Vidyapeetham, Amritapuri Campus 🏫",
@@ -87,7 +87,7 @@ const starLord = {
 
 ---
 
-## 🛸 Featured Repositories (My Greatest Engineering Heists)
+## 🛸 Featured Repositories
 
 <div align="center">
 
@@ -128,4 +128,4 @@ const starLord = {
 
 
 
-*"Sometimes you gotta learn everything before you can specialize... or in my case, become a legendary geek before becoming a legendary engineer!"* - Star-Lord Abhijith, probably 🚀🤓
+*"Sometimes you gotta learn everything before you can specialize... or in my case, become a legendary geek before becoming a legendary engineer!"* - P1LL3CHAN 🚀🤓
