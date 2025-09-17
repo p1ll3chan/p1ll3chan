@@ -78,7 +78,6 @@ const P1LL3CHAN = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=p1ll3chan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D866&text_color=FFF&border_color=F75C7E"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1ll3chan&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=F75C7E&text_color=FFF&border_color=F75C7E"/>
 
 </div>
