@@ -5,6 +5,13 @@
 
 ---
 
+
+<div align="center">
+  <img src="assets/desktop.png" alt="My Desktop" width="800"/>
+</div>
+
+---
+
 ### 🧠 About Me  
 I'm a curious learner who enjoys solving problems through **code and logic**.  
 Though my background is in Mechanical Engineering, I’m building strong foundations in **C++, Python, and analytical thinking** — aiming toward roles in **Software Development** or **Technical Analytics**.  
