@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="assets/desktop.png" alt="My Desktop" width="800"/>
+  <img src="asset/desktop.png" alt="My Desktop" width="800"/>
 </div>
 
 ---
