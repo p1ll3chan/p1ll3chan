@@ -49,7 +49,7 @@ _Currently learning:_ Data Structures, Algorithms, and Applied Numerical Methods
 ---
 
 ### 🌐 Connect With Me  
-[LinkedIn](https://www.linkedin.com/in/abhijith-r-pillai-p1ll3chan/) • [GitHub](https://github.com/p1ll3chan) • [Email](mailto:abhijithrpillai2023@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/abhijith-r-pillai/) • [GitHub](https://github.com/p1ll3chan) • [Email](mailto:abhijithrpillai2023@gmail.com)
 
 ---
 
